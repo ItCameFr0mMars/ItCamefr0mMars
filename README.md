@@ -1,4 +1,4 @@
-Check my [Website](https://mars.tk)
+# Check my [Website](https://mars.tk)
 
 # Hey i'm mars
 
